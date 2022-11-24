@@ -1,0 +1,301 @@
+Employee ID,Name,Age,Gender,Nationality,Place,Designation,Qualification,Experience,Heart Beat,Temperature,RFID Tag,Attendance,Site,Time In,Time Out,Total Working Hours,Working Hours,Remaining Working Hours,Location,Beats Per Minute,Body Temperature,Motion Indication,Noise Detection,Infrared Sensor,Gas Sensor,Performance/KPI
+26-3650688,Kellyann Philippault,36,F,Japan,Malayisa,Un-Skilled,Framing (Steel),14,82,93.3,1876334797,Present,Site 2,07:00 AM,03:00 PM,1000,9,701,Site 3,151,95.91,Operation,Yes,No,No,Exceeds
+77-7007282,Ilsa Rylett,26,F,Japan,Malayisa,Un-Skilled,Soft Flooring and Base,4,113,103.9,1886634866,Present,Site 3,09:00 AM,05:00 PM,1000,9,487,Site 1,147,89.32,Transportation,Yes,Yes,No,Needs Improvement
+92-6574932,Maxwell Dunton,34,M,China,Malayisa,Semi-Skilled,Curb & Gutter,14,90,89.47,2614386731,Absent,Site 1,07:00 AM,05:00 PM,1000,9,843,Site 1,138,93.63,Transportation,No,No,Yes,Exceeds
+92-2606216,Buck Largan,40,F,Malaysia,Malayisa,Un-Skilled,Masonry,18,80,102.35,0308985494,Present,Site 2,09:00 AM,05:00 PM,1000,10,622,Site 1,128,89.63,Transportation,Yes,Yes,No,Needs Improvement
+01-1449577,Lauren Tetla,38,M,China,Malayisa,Skilled,Drywall & Acoustical (FED),11,155,90.43,6010787564,Absent,Site 2,07:00 AM,05:00 PM,1000,10,747,Site 3,88,93.65,Transportation,No,Yes,No,Exceeds
+49-1336175,Justino Congram,24,F,China,Malayisa,Semi-Skilled,Plumbing & Medical Gas,17,104,85.32,2228516643,Present,Site 2,09:00 AM,05:00 PM,1000,9,430,Site 1,144,92.25,Inspection,Yes,Yes,No,Needs Improvement
+76-4074569,Marilee Pheasey,35,M,China,Malayisa,Skilled,Hard Tile & Stone,14,113,93.54,6399763568,Absent,Site 3,07:00 AM,03:00 PM,1000,8,381,Site 2,90,93.34,Transportation,Yes,No,Yes,Needs Improvement
+11-6382995,Ravi Wayne,43,F,China,Malayisa,Un-Skilled,Electrical,1,124,88.73,8455061626,Present,Site 1,07:00 AM,03:00 PM,1000,10,616,Site 2,129,90.46,Inspection,Yes,No,No,Fully Meets
+20-5623861,Marje Rillatt,30,M,China,Malayisa,Skilled,Casework,4,156,94.27,6552848684,Absent,Site 1,09:00 AM,03:00 PM,1000,8,809,Site 3,100,99.97,Transportation,Yes,No,Yes,Needs Improvement
+59-0290220,Ryan Calcott,42,M,Bangladesh,Malayisa,Semi-Skilled,Masonry & Precast,18,121,97.18,0547297424,Absent,Site 3,09:00 AM,03:00 PM,1000,10,609,Site 1,150,92.81,Transportation,Yes,Yes,No,Fully Meets
+43-4109564,Ringo Burgen,44,F,China,Malayisa,Un-Skilled,Prefabricated Aluminum Metal Canopies,2,141,104.9,8853757515,Absent,Site 3,09:00 AM,05:00 PM,1000,8,444,Site 3,125,92.57,Operation,Yes,No,Yes,Fully Meets
+85-1486308,Steffen McShirrie,22,F,China,Malayisa,Skilled,Casework,14,140,99.63,7772711468,Absent,Site 2,09:00 AM,03:00 PM,1000,9,468,Site 3,134,95.37,Transportation,No,No,No,Exceeds
+63-1988234,Wilbur Skitt,41,M,China,Malayisa,Skilled,Exterior Signage,18,126,97.13,0080128033,Absent,Site 2,07:00 AM,03:00 PM,1000,10,467,Site 1,151,93.97,Inspection,Yes,Yes,No,Exceeds
+70-8320626,Illa Barrett,30,F,Philippines,Malayisa,Un-Skilled,Construction Clean and Final Clean,8,94,90.92,2512577848,Present,Site 2,07:00 AM,03:00 PM,1000,9,574,Site 3,114,97.29,Inspection,Yes,Yes,Yes,Exceeds
+70-6649611,Jasmin Davidsson,21,F,China,Malayisa,Un-Skilled,Site Furnishings,4,91,101.88,2190803322,Present,Site 1,07:00 AM,05:00 PM,1000,10,390,Site 3,151,93.48,Inspection,No,No,Yes,Exceeds
+48-8047874,Viviyan Tschersich,20,F,China,Malayisa,Un-Skilled,Masonry & Precast,18,153,101.32,6016383023,Absent,Site 1,09:00 AM,03:00 PM,1000,9,477,Site 2,151,93.68,Custom,No,Yes,No,Fully Meets
+56-1059125,Dniren Carl,26,F,China,Malayisa,Skilled,Plumbing & Medical Gas,19,145,98.06,2428230107,Present,Site 2,09:00 AM,03:00 PM,1000,8,836,Site 1,85,89.6,Transportation,No,Yes,Yes,Exceeds
+04-4701380,Carena Hubach,32,F,China,Malayisa,Semi-Skilled,Granite Surfaces,10,122,89.71,4308542693,Absent,Site 1,09:00 AM,05:00 PM,1000,9,580,Site 2,120,96.07,Transportation,Yes,No,Yes,Exceeds
+30-5670972,Maggi Hullbrook,20,F,China,Malayisa,Un-Skilled,Sitework & Site Utilities,16,130,95.43,1320009905,Absent,Site 1,07:00 AM,05:00 PM,1000,10,804,Site 3,83,92.33,Operation,No,No,No,Needs Improvement
+87-9043581,Son Brittlebank,32,M,China,Malayisa,Un-Skilled,Waterproofing & Caulking,14,133,96.93,2371132020,Absent,Site 3,09:00 AM,05:00 PM,1000,9,706,Site 3,123,87.45,Custom,No,No,Yes,Exceeds
+46-7470704,Vania Masden,27,M,China,Malayisa,Un-Skilled,Construction Clean and Final Clean,2,105,91.8,3133501356,Present,Site 2,07:00 AM,03:00 PM,1000,9,371,Site 1,88,87.1,Custom,No,No,No,Fully Meets
+47-2185380,Lindsy Shinn,22,F,Philippines,Malayisa,Un-Skilled,Site Furnishings,14,141,95.91,4454815321,Present,Site 3,09:00 AM,03:00 PM,1000,10,665,Site 1,96,99.17,Custom,No,Yes,Yes,Needs Improvement
+22-2563399,Faunie Timlett,22,F,Philippines,Malayisa,Semi-Skilled,Asphalt Paving,19,149,86.33,5387766809,Absent,Site 1,07:00 AM,05:00 PM,1000,8,351,Site 2,87,94.63,Inspection,Yes,Yes,No,Exceeds
+11-1964664,Steve Crumpton,31,F,Japan,Malayisa,Semi-Skilled,HVAC,19,120,92.24,3814023226,Present,Site 2,09:00 AM,03:00 PM,1000,9,638,Site 1,143,99.5,Operation,No,No,Yes,Fully Meets
+82-4335160,Jerrilyn Kenningham,42,F,China,Malayisa,Semi-Skilled,Glass & Glazing,8,105,101.07,5862056556,Present,Site 1,07:00 AM,03:00 PM,1000,9,801,Site 3,115,95.23,Transportation,Yes,No,No,Fully Meets
+00-3928568,Barnaby Emsden,36,M,Japan,Malayisa,Un-Skilled,Painting & Vinyl Wall Covering,10,87,92.14,3262659401,Present,Site 2,07:00 AM,03:00 PM,1000,10,476,Site 2,160,97.22,Custom,No,Yes,Yes,Needs Improvement
+66-3082760,Sherwynd Gregoretti,28,F,China,Malayisa,Un-Skilled,HVAC,17,96,89.01,9141000749,Present,Site 1,07:00 AM,03:00 PM,1000,9,662,Site 1,84,98.13,Operation,No,Yes,No,Exceeds
+09-9832241,Avigdor Wigelsworth,44,F,China,Malayisa,Skilled,Structural and Misc Steel (Fabrication),4,132,87.22,9873337709,Present,Site 2,07:00 AM,05:00 PM,1000,8,622,Site 2,143,88.21,Transportation,No,Yes,No,Exceeds
+58-5215125,Rodney Prover,44,M,Bangladesh,Malayisa,Skilled,Epoxy Flooring,18,124,94.35,2702418996,Absent,Site 3,09:00 AM,03:00 PM,1000,8,779,Site 2,137,98.82,Transportation,No,No,Yes,Fully Meets
+77-6175581,Dena Niezen,23,M,Malaysia,Malayisa,Semi-Skilled,Site Furnishings,5,151,96.39,7165562710,Absent,Site 3,07:00 AM,03:00 PM,1000,10,399,Site 2,124,97.78,Custom,Yes,No,Yes,Fully Meets
+05-1451094,Yancey McTurley,35,M,China,Malayisa,Semi-Skilled,Epoxy Flooring,6,157,93.33,0286394561,Absent,Site 2,09:00 AM,05:00 PM,1000,9,431,Site 1,144,89.89,Operation,Yes,No,Yes,Needs Improvement
+51-1082198,Suzann Vasyuchov,29,F,China,Malayisa,Un-Skilled,Casework,7,150,94.06,8845057550,Absent,Site 1,09:00 AM,03:00 PM,1000,8,651,Site 1,114,93.6,Inspection,No,Yes,No,Fully Meets
+68-7485603,Jackie Sitford,39,F,China,Malayisa,Un-Skilled,Construction Clean and Final Clean,8,84,92.49,2477111973,Present,Site 2,09:00 AM,03:00 PM,1000,10,470,Site 1,96,86.09,Transportation,Yes,Yes,Yes,Needs Improvement
+35-3823584,Morgan Gwillyam,27,M,China,Malayisa,Skilled,Roofing (Metal),7,104,91.02,9310278331,Present,Site 3,07:00 AM,05:00 PM,1000,10,563,Site 3,130,94.13,Custom,Yes,Yes,Yes,Fully Meets
+76-7305203,Mariya Colcutt,40,M,China,Malayisa,Skilled,Electrical,3,142,85.65,4571949820,Absent,Site 2,09:00 AM,05:00 PM,1000,10,418,Site 1,108,87.82,Inspection,Yes,No,Yes,Needs Improvement
+43-9388265,Wilmette Kermon,37,M,China,Malayisa,Semi-Skilled,Plumbing & Medical Gas,1,148,86.16,6640839342,Present,Site 1,07:00 AM,05:00 PM,1000,9,600,Site 1,88,91.4,Inspection,Yes,Yes,No,Exceeds
+83-1634726,Dacey Clawe,44,M,Philippines,Malayisa,Semi-Skilled,"Temp Fencing, Decorative Fencing and Gates",10,86,93.65,4194055101,Absent,Site 3,07:00 AM,05:00 PM,1000,10,580,Site 1,129,88.46,Operation,Yes,Yes,Yes,Exceeds
+83-2649193,Thaddus Dawidowitz,41,F,China,Malayisa,Semi-Skilled,Asphalt Paving,14,114,94.69,2037160623,Absent,Site 1,07:00 AM,03:00 PM,1000,10,589,Site 2,109,98.09,Transportation,No,No,No,Fully Meets
+11-6078051,Archibald Castellone,44,F,Japan,Malayisa,Un-Skilled,Drywall & Acoustical (MOB),15,121,95.75,7634224863,Absent,Site 3,09:00 AM,03:00 PM,1000,9,473,Site 2,103,99.97,Operation,No,No,Yes,Needs Improvement
+63-8538984,Zsa zsa Smeall,21,F,China,Malayisa,Skilled,Retaining Wall and Brick Pavers,6,140,95.06,8393113954,Absent,Site 1,07:00 AM,05:00 PM,1000,10,593,Site 3,88,95.17,Inspection,No,Yes,Yes,Needs Improvement
+77-2308410,Dede Coldicott,33,M,China,Malayisa,Un-Skilled,Epoxy Flooring,13,156,104.88,4223734253,Absent,Site 1,09:00 AM,03:00 PM,1000,8,704,Site 1,127,92.75,Transportation,No,Yes,Yes,Fully Meets
+57-9095606,Audi Hamflett,27,M,China,Malayisa,Skilled,Construction Clean and Final Clean,10,146,90.71,2612658084,Absent,Site 2,09:00 AM,03:00 PM,1000,10,470,Site 1,101,85.68,Custom,Yes,Yes,Yes,Exceeds
+69-3716789,Jacquetta Manifold,38,M,Philippines,Malayisa,Skilled,Masonry & Precast,1,155,86.22,1420708937,Present,Site 1,07:00 AM,03:00 PM,1000,8,631,Site 2,88,86.74,Custom,No,No,Yes,Needs Improvement
+94-9241762,Elenore Prewer,35,M,China,Malayisa,Skilled,Framing (Wood),5,152,94.04,8529493737,Absent,Site 1,07:00 AM,03:00 PM,1000,8,498,Site 1,143,93.31,Transportation,No,Yes,No,Exceeds
+97-8039363,Cristian Meckiff,43,M,Philippines,Malayisa,Semi-Skilled,Curb & Gutter,17,102,91.48,8218766316,Absent,Site 3,07:00 AM,05:00 PM,1000,9,471,Site 3,99,98.12,Operation,Yes,Yes,No,Fully Meets
+79-6239252,Carlin Hockell,37,M,China,Malayisa,Un-Skilled,Painting & Vinyl Wall Covering,8,140,85.16,4379938972,Present,Site 2,07:00 AM,05:00 PM,1000,9,562,Site 1,107,93.89,Transportation,Yes,No,No,Exceeds
+46-9587569,Myrle Coxwell,44,M,China,Malayisa,Un-Skilled,Granite Surfaces,2,102,86.95,1638772819,Present,Site 1,09:00 AM,05:00 PM,1000,8,566,Site 2,104,86.04,Transportation,Yes,No,Yes,Exceeds
+40-0254738,Ermengarde Balhatchet,43,M,Pakistan,Malayisa,Un-Skilled,Framing (Steel),12,93,97.93,0501304088,Absent,Site 1,09:00 AM,05:00 PM,1000,8,568,Site 3,108,89.42,Operation,Yes,No,Yes,Exceeds
+39-3259655,Liane Johnson,41,M,China,Malayisa,Semi-Skilled,Structural and Misc Steel (Fabrication),13,87,86.32,3097996737,Present,Site 2,07:00 AM,05:00 PM,1000,8,449,Site 1,98,89.47,Delay,No,Yes,Yes,Fully Meets
+44-7558134,Chrisy Aleksandrikin,22,F,China,Malayisa,Un-Skilled,Framing (Wood),1,88,99.91,9046326098,Present,Site 3,07:00 AM,05:00 PM,1000,10,461,Site 3,144,99.33,Inspection,No,Yes,No,Exceeds
+69-0839303,Isaak Farbrother,44,M,China,Malayisa,Skilled,Landscaping & Irrigation,17,137,102.84,5998046269,Present,Site 1,07:00 AM,05:00 PM,1000,9,578,Site 3,122,87.5,Inspection,No,No,No,Exceeds
+89-2356495,Frankie Jellis,38,M,China,Malayisa,Un-Skilled,Fire Protection,11,95,99.63,2112578391,Present,Site 1,09:00 AM,03:00 PM,1000,10,634,Site 1,157,85.29,Operation,Yes,No,No,Needs Improvement
+33-0165800,Dredi Muddle,45,M,China,Malayisa,Un-Skilled,Electrical,19,104,99.12,0611688808,Present,Site 2,09:00 AM,05:00 PM,1000,8,560,Site 1,145,87.4,Inspection,Yes,Yes,No,Exceeds
+62-6915616,Bax Camilleri,44,M,Philippines,Malayisa,Un-Skilled,Wall Protection,9,117,86.14,4864538042,Present,Site 2,09:00 AM,05:00 PM,1000,8,685,Site 3,160,87.0,Transportation,Yes,Yes,No,Exceeds
+15-3671615,Gaby Cremer,26,M,Philippines,Malayisa,Semi-Skilled,Framing (Steel),12,156,97.54,8453734143,Absent,Site 2,07:00 AM,05:00 PM,1000,9,685,Site 2,102,97.53,Operation,No,No,No,Exceeds
+63-9013184,Fletch Strawbridge,42,M,China,Malayisa,Un-Skilled,Masonry,14,100,90.68,9641738232,Present,Site 1,09:00 AM,05:00 PM,1000,10,392,Site 2,115,87.49,Operation,Yes,No,Yes,Needs Improvement
+36-9043933,Eve Coldtart,45,M,China,Malayisa,Skilled,Site Furnishings,1,154,93.23,2378333250,Present,Site 1,09:00 AM,05:00 PM,1000,8,779,Site 1,129,89.23,Operation,No,No,No,Exceeds
+05-3458128,Dyanna Wickins,34,F,Malaysia,Malayisa,Semi-Skilled,RF Shielding,17,141,103.31,1011088851,Absent,Site 3,09:00 AM,03:00 PM,1000,9,659,Site 3,96,95.46,Operation,No,Yes,No,Exceeds
+54-2471152,Carter Arsnell,31,M,China,Malayisa,Semi-Skilled,Waterproofing & Caulking,5,134,87.69,1585042331,Present,Site 2,07:00 AM,05:00 PM,1000,9,442,Site 3,125,91.54,Transportation,No,No,No,Exceeds
+48-0983800,Mead Pybus,44,M,Philippines,Malayisa,Semi-Skilled,Prefabricated Aluminum Metal Canopies,16,119,92.6,2617399613,Absent,Site 1,09:00 AM,03:00 PM,1000,8,638,Site 3,157,98.43,Inspection,No,No,Yes,Needs Improvement
+73-2498640,Shawn Biers,37,M,Philippines,Malayisa,Un-Skilled,Retaining Wall and Brick Pavers,15,88,91.28,3653359775,Present,Site 2,09:00 AM,05:00 PM,1000,9,384,Site 1,114,88.67,Inspection,Yes,No,Yes,Fully Meets
+96-7031794,Horatius Pettet,26,F,China,Malayisa,Skilled,Soft Flooring and Base,11,134,87.23,8244394307,Present,Site 1,09:00 AM,05:00 PM,1000,8,459,Site 3,82,92.59,Transportation,No,Yes,Yes,Needs Improvement
+01-8074146,Bone Huggard,39,M,China,Malayisa,Skilled,Structural and Misc Steel (Fabrication),14,144,101.95,4259021346,Absent,Site 2,09:00 AM,03:00 PM,1000,10,493,Site 3,156,93.43,Operation,No,No,Yes,Exceeds
+43-8791291,Rafa Dilley,38,F,Philippines,Malayisa,Semi-Skilled,Exterior Signage,19,108,103.36,1947382934,Present,Site 3,09:00 AM,05:00 PM,1000,9,686,Site 3,147,97.72,Transportation,Yes,Yes,No,Fully Meets
+71-4928060,Tye Emson,42,M,China,Malayisa,Un-Skilled,Fire Sprinkler System,5,91,102.7,3041188031,Present,Site 3,09:00 AM,03:00 PM,1000,10,352,Site 2,123,91.73,Custom,Yes,No,No,Needs Improvement
+13-4340909,Helge Bertl,30,F,China,Malayisa,Un-Skilled,Framing (Steel),17,110,100.96,3726500766,Absent,Site 1,07:00 AM,03:00 PM,1000,10,808,Site 1,108,85.63,Transportation,No,No,Yes,Exceeds
+61-6401213,Eryn Tripp,44,M,China,Malayisa,Skilled,Landscaping & Irrigation,9,84,94.25,2679874412,Present,Site 1,07:00 AM,05:00 PM,1000,10,724,Site 3,116,99.67,Transportation,Yes,No,Yes,Needs Improvement
+96-6323253,Wald Ferber,30,F,Philippines,Malayisa,Un-Skilled,Waterproofing & Caulking,15,94,98.6,3397211913,Present,Site 3,07:00 AM,05:00 PM,1000,8,422,Site 1,158,99.83,Operation,No,No,No,Fully Meets
+04-4120823,Dorine Gillyett,33,M,China,Malayisa,Skilled,Glass & Glazing,16,148,92.52,7533947320,Present,Site 2,09:00 AM,05:00 PM,1000,9,641,Site 3,113,98.79,Transportation,Yes,No,No,Fully Meets
+73-9330834,Lorne Gaffey,34,M,China,Malayisa,Semi-Skilled,Drywall & Acoustical (FED),12,82,88.71,8042004230,Absent,Site 3,07:00 AM,03:00 PM,1000,10,627,Site 2,115,85.41,Operation,No,No,No,Fully Meets
+04-7578304,Rozanna Craddock,35,M,China,Malayisa,Semi-Skilled,"Temp Fencing, Decorative Fencing and Gates",5,111,85.43,6981756420,Absent,Site 3,09:00 AM,05:00 PM,1000,9,764,Site 2,83,96.73,Transportation,Yes,No,No,Fully Meets
+02-4640218,Cord Harden,44,M,China,Malayisa,Skilled,EIFS,8,102,97.56,6851452626,Present,Site 3,09:00 AM,05:00 PM,1000,8,589,Site 2,140,85.98,Transportation,No,No,Yes,Exceeds
+55-8654460,Britt Janks,25,M,Sri Lanka,Malayisa,Skilled,Masonry & Precast,6,102,86.12,4896966082,Present,Site 1,09:00 AM,05:00 PM,1000,8,853,Site 3,156,96.21,Custom,Yes,Yes,Yes,Needs Improvement
+80-1213567,Eada Bertolaccini,27,M,China,Malayisa,Semi-Skilled,Retaining Wall and Brick Pavers,5,157,86.82,6027916370,Present,Site 2,09:00 AM,05:00 PM,1000,8,761,Site 1,108,89.11,Transportation,No,No,No,Fully Meets
+70-3943763,Gusty Huyton,40,M,Philippines,Malayisa,Semi-Skilled,Casework,20,107,88.99,0522285139,Absent,Site 1,07:00 AM,03:00 PM,1000,8,403,Site 3,90,85.85,Operation,Yes,Yes,No,Fully Meets
+39-9461672,Ardyce Tofful,27,F,China,Malayisa,Semi-Skilled,Hard Tile & Stone,8,135,95.54,0447398636,Present,Site 2,09:00 AM,03:00 PM,1000,9,842,Site 2,132,86.31,Operation,Yes,No,Yes,Needs Improvement
+80-2980479,Georgianna McDonnell,24,M,Philippines,Malayisa,Skilled,Curb & Gutter,4,127,88.56,7653231365,Present,Site 1,07:00 AM,03:00 PM,1000,9,500,Site 2,108,96.42,Operation,No,No,Yes,Needs Improvement
+58-9236432,Franzen Gliddon,39,F,China,Malayisa,Semi-Skilled,Marlite Panels (FED),19,107,97.07,5079087943,Present,Site 3,07:00 AM,03:00 PM,1000,9,370,Site 1,104,87.16,Operation,No,No,No,Needs Improvement
+17-2184857,Nickola Ounsworth,28,M,China,Malayisa,Semi-Skilled,Structural & Misc Steel Erection,10,103,101.62,7115342539,Absent,Site 2,09:00 AM,03:00 PM,1000,9,560,Site 2,153,85.55,Custom,No,No,No,Exceeds
+37-9728114,Lammond Deetlefs,35,M,Malaysia,Malayisa,Skilled,Masonry,1,143,100.02,5505406416,Absent,Site 1,07:00 AM,05:00 PM,1000,8,787,Site 2,133,86.27,Inspection,No,No,No,Fully Meets
+58-0514267,Kareem Paolazzi,39,M,Japan,Malayisa,Skilled,Elevator,10,105,86.21,5405413070,Absent,Site 3,07:00 AM,05:00 PM,1000,10,523,Site 2,157,90.19,Delay,Yes,No,No,Fully Meets
+13-3284107,Hughie Pull,42,F,China,Malayisa,Un-Skilled,Site Furnishings,6,99,90.58,3828617492,Absent,Site 3,07:00 AM,03:00 PM,1000,8,674,Site 1,150,87.11,Delay,Yes,Yes,Yes,Needs Improvement
+97-2861017,Dora Honeywood,27,M,Japan,Malayisa,Skilled,Waterproofing & Caulking,5,137,86.13,6365680422,Present,Site 2,09:00 AM,05:00 PM,1000,8,467,Site 3,135,97.99,Delay,Yes,Yes,No,Fully Meets
+37-8020147,Idette Delacour,30,F,China,Malayisa,Skilled,Elevator,14,107,86.58,8942406904,Absent,Site 3,07:00 AM,05:00 PM,1000,9,707,Site 1,97,87.38,Custom,No,No,No,Fully Meets
+01-4851008,Blakelee Loutheane,20,F,China,Malayisa,Skilled,Painting & Vinyl Wall Covering,15,87,100.12,9123355484,Present,Site 2,07:00 AM,05:00 PM,1000,8,678,Site 3,138,95.69,Delay,Yes,Yes,Yes,Fully Meets
+82-9971343,Carree Nesbit,40,F,China,Malayisa,Semi-Skilled,Fire Sprinkler System,10,160,100.14,9473171919,Absent,Site 2,09:00 AM,05:00 PM,1000,10,805,Site 3,83,94.09,Operation,Yes,No,Yes,Exceeds
+39-1464777,Giorgio Brinkley,44,M,China,Malayisa,Skilled,Prefabricated Aluminum Metal Canopies,9,149,101.23,5694318331,Present,Site 3,09:00 AM,03:00 PM,1000,10,460,Site 2,143,99.89,Inspection,No,Yes,No,Needs Improvement
+33-9060845,Gwenny Mollene,32,F,Japan,Malayisa,Skilled,Exterior Signage,20,87,103.89,4825913512,Absent,Site 1,07:00 AM,05:00 PM,1000,10,849,Site 1,123,90.1,Custom,Yes,Yes,No,Fully Meets
+55-5163049,William Markel,26,F,Philippines,Malayisa,Un-Skilled,Granite Surfaces,15,156,97.92,9954118527,Absent,Site 3,09:00 AM,03:00 PM,1000,8,857,Site 3,154,96.41,Operation,No,Yes,Yes,Needs Improvement
+36-4721319,Gilbertina Waddingham,36,M,China,Malayisa,Semi-Skilled,Curb & Gutter,4,99,102.43,0795554109,Absent,Site 2,07:00 AM,03:00 PM,1000,9,421,Site 2,122,92.62,Transportation,Yes,Yes,Yes,Exceeds
+97-9453067,Gustie Falkner,25,F,China,Malayisa,Skilled,Waterproofing & Caulking,13,100,98.27,7246549056,Absent,Site 3,07:00 AM,03:00 PM,1000,8,811,Site 2,106,95.88,Transportation,No,No,No,Needs Improvement
+04-7991645,Maude Hesser,20,F,China,Malayisa,Skilled,Soft Flooring and Base,5,113,92.24,6744696866,Present,Site 2,09:00 AM,03:00 PM,1000,8,654,Site 2,97,90.22,Custom,No,Yes,Yes,Exceeds
+99-9318548,Ellene MacSwayde,45,M,Malaysia,Malayisa,Skilled,Rebar & Wire Mesh Install,1,128,85.56,2741323771,Absent,Site 2,09:00 AM,05:00 PM,1000,10,686,Site 2,134,92.92,Transportation,Yes,No,Yes,Exceeds
+18-9834328,Bertie Wiltshaw,22,M,China,Malayisa,Skilled,Curb & Gutter,6,142,95.82,1915794641,Absent,Site 3,09:00 AM,05:00 PM,1000,8,723,Site 2,146,96.36,Operation,No,Yes,Yes,Fully Meets
+09-9308775,Levi Mandre,30,F,Philippines,Malayisa,Un-Skilled,Construction Clean and Final Clean,2,111,91.64,7030029364,Absent,Site 2,07:00 AM,03:00 PM,1000,8,833,Site 1,119,95.67,Transportation,No,No,Yes,Exceeds
+86-3944323,Dex Noel,33,F,China,Malayisa,Un-Skilled,Exterior Signage,20,158,88.28,1520036191,Present,Site 2,09:00 AM,05:00 PM,1000,10,737,Site 2,97,98.21,Transportation,Yes,Yes,No,Needs Improvement
+45-7662891,Norby Tanner,45,F,Philippines,Malayisa,Semi-Skilled,Casework,13,142,99.53,6684262687,Present,Site 1,07:00 AM,05:00 PM,1000,9,520,Site 3,153,91.9,Operation,Yes,No,Yes,Exceeds
+54-5507545,Glori Lambertini,25,M,China,Malayisa,Semi-Skilled,Construction Clean and Final Clean,4,129,94.11,6772592301,Present,Site 1,09:00 AM,05:00 PM,1000,10,672,Site 2,114,95.48,Delay,No,No,No,Exceeds
+23-5372664,Shelia Ugolini,39,M,Philippines,Malayisa,Un-Skilled,Curb & Gutter,17,86,101.71,7832003588,Absent,Site 3,09:00 AM,05:00 PM,1000,10,727,Site 2,124,87.56,Custom,No,Yes,No,Exceeds
+25-4437134,Mamie Turney,22,M,China,Malayisa,Semi-Skilled,Roofing (Asphalt),20,138,100.79,9549374211,Absent,Site 3,07:00 AM,05:00 PM,1000,9,388,Site 3,122,94.93,Transportation,Yes,No,Yes,Fully Meets
+70-1384403,Sutherlan Elphick,21,F,China,Malayisa,Skilled,Framing (Steel),18,114,101.72,7911170738,Absent,Site 1,09:00 AM,03:00 PM,1000,10,606,Site 2,158,86.37,Delay,Yes,No,Yes,Fully Meets
+25-4310802,Gerianne Stife,27,F,China,Malayisa,Un-Skilled,RF Shielding,11,141,99.39,0420978186,Absent,Site 3,07:00 AM,05:00 PM,1000,8,553,Site 3,86,87.68,Inspection,Yes,No,No,Exceeds
+30-4752283,Herschel Englishby,32,F,China,Malayisa,Semi-Skilled,Glass & Glazing,13,98,98.66,3788241098,Absent,Site 3,09:00 AM,03:00 PM,1000,8,476,Site 3,92,93.97,Transportation,Yes,Yes,No,Needs Improvement
+72-3476191,Teresita Retter,41,F,Malaysia,Malayisa,Un-Skilled,HVAC,8,89,96.57,9094496437,Present,Site 3,09:00 AM,03:00 PM,1000,9,480,Site 3,138,98.78,Delay,No,No,No,Needs Improvement
+89-1292854,Marinna Hardistry,30,F,Philippines,Malayisa,Skilled,Roofing (Asphalt),20,109,90.51,2052105131,Present,Site 1,07:00 AM,05:00 PM,1000,10,499,Site 3,143,94.07,Custom,No,No,Yes,Exceeds
+72-2345146,Adela Goakes,24,M,China,Malayisa,Semi-Skilled,"Temp Fencing, Decorative Fencing and Gates",13,86,99.61,0561695075,Absent,Site 3,07:00 AM,05:00 PM,1000,9,557,Site 1,127,85.1,Transportation,Yes,No,No,Exceeds
+34-9482025,Aguste Mityashev,23,F,China,Malayisa,Un-Skilled,Ornamental Railings,11,98,85.1,2787222501,Absent,Site 2,09:00 AM,03:00 PM,1000,8,463,Site 1,155,85.5,Transportation,No,No,No,Exceeds
+09-7155844,Wileen Garmans,21,F,China,Malayisa,Skilled,Drywall & Acoustical (FED),18,82,94.61,9932739081,Absent,Site 1,09:00 AM,03:00 PM,1000,10,789,Site 1,122,85.69,Operation,Yes,Yes,Yes,Fully Meets
+61-8818197,Cris Witard,24,F,Pakistan,Malayisa,Semi-Skilled,Electrical,18,122,97.0,7199153163,Absent,Site 1,07:00 AM,03:00 PM,1000,8,728,Site 3,92,89.76,Operation,No,No,Yes,Exceeds
+67-6624717,Katti O'Nolan,27,M,Japan,Malayisa,Semi-Skilled,Roofing (Metal),3,94,104.48,7498799006,Absent,Site 2,07:00 AM,05:00 PM,1000,8,726,Site 2,127,89.51,Custom,Yes,No,No,Exceeds
+69-8682422,Alasdair Feary,43,M,Philippines,Malayisa,Semi-Skilled,Drywall & Acoustical (MOB),11,159,88.47,2115116224,Absent,Site 2,07:00 AM,03:00 PM,1000,10,500,Site 3,152,98.68,Custom,Yes,No,Yes,Needs Improvement
+50-3690111,Bird Dale,43,M,China,Malayisa,Semi-Skilled,Asphalt Paving,4,124,86.82,0818331844,Present,Site 2,07:00 AM,03:00 PM,1000,9,421,Site 3,126,97.01,Transportation,No,No,No,Exceeds
+83-2861384,Fayina Abramowsky,30,F,China,Malayisa,Skilled,Drywall & Acoustical (FED),7,143,92.88,0913493899,Present,Site 1,09:00 AM,03:00 PM,1000,9,821,Site 1,157,85.24,Transportation,No,No,No,Needs Improvement
+51-6636604,Kaine Yu,45,F,China,Malayisa,Skilled,Prefabricated Aluminum Metal Canopies,20,148,93.44,0421443855,Absent,Site 3,07:00 AM,03:00 PM,1000,9,439,Site 3,113,95.44,Transportation,No,No,No,Exceeds
+40-7639412,Olivie Mannooch,28,F,China,Malayisa,Semi-Skilled,RF Shielding,4,105,98.45,7954175340,Absent,Site 3,09:00 AM,05:00 PM,1000,9,631,Site 2,90,95.07,Transportation,No,Yes,No,Exceeds
+45-8510554,Terza Simonutti,43,F,Philippines,Malayisa,Un-Skilled,Marlite Panels (FED),4,131,88.25,1654069043,Absent,Site 3,09:00 AM,05:00 PM,1000,8,523,Site 2,124,88.48,Custom,No,No,No,Needs Improvement
+49-8933881,Shirley Blinerman,34,F,China,Malayisa,Skilled,Construction Clean and Final Clean,16,96,99.91,0024679763,Present,Site 3,07:00 AM,05:00 PM,1000,8,730,Site 2,139,97.78,Inspection,No,No,No,Fully Meets
+83-5435789,Clyve Tremmil,23,F,China,Malayisa,Semi-Skilled,Prefabricated Aluminum Metal Canopies,7,123,93.02,0628880774,Present,Site 2,07:00 AM,03:00 PM,1000,8,723,Site 3,101,96.77,Delay,Yes,Yes,No,Needs Improvement
+55-0922807,Barrie Julyan,33,F,Philippines,Malayisa,Skilled,Waterproofing & Caulking,15,121,88.64,1924288443,Absent,Site 2,07:00 AM,03:00 PM,1000,10,403,Site 1,105,86.09,Delay,Yes,No,No,Exceeds
+68-3481689,Merry Bleakley,37,F,China,Malayisa,Semi-Skilled,Asphalt Paving,8,85,103.46,4472537397,Present,Site 2,09:00 AM,03:00 PM,1000,9,526,Site 3,139,93.85,Delay,No,Yes,Yes,Exceeds
+97-1058464,Nickolas Axcel,25,M,Philippines,Malayisa,Semi-Skilled,HVAC,9,100,92.0,7970244122,Absent,Site 2,09:00 AM,03:00 PM,1000,9,660,Site 2,144,91.08,Inspection,No,Yes,No,Needs Improvement
+95-2290196,Lolly Boath,24,M,China,Malayisa,Un-Skilled,Drywall & Acoustical (MOB),10,115,87.72,6783917312,Absent,Site 1,07:00 AM,05:00 PM,1000,9,490,Site 3,123,95.66,Transportation,Yes,Yes,No,Fully Meets
+33-2255845,Ruprecht Kingston,40,M,China,Malayisa,Semi-Skilled,Curb & Gutter,14,94,93.35,9160501634,Present,Site 2,09:00 AM,05:00 PM,1000,9,777,Site 3,90,95.4,Delay,Yes,No,Yes,Fully Meets
+33-7430953,Rufus Willshee,33,F,China,Malayisa,Un-Skilled,"Temp Fencing, Decorative Fencing and Gates",4,91,93.74,3277355128,Present,Site 1,07:00 AM,05:00 PM,1000,8,803,Site 3,102,94.52,Transportation,No,No,No,Fully Meets
+79-3288903,Avictor Smallsman,23,F,China,Malayisa,Semi-Skilled,Fire Protection,2,97,89.68,9491260308,Absent,Site 2,09:00 AM,03:00 PM,1000,9,808,Site 1,93,88.33,Inspection,No,No,Yes,Fully Meets
+96-2611823,Carlynne Kirkham,39,M,Philippines,Malayisa,Semi-Skilled,Construction Clean and Final Clean,1,106,97.21,9990061637,Absent,Site 1,09:00 AM,05:00 PM,1000,9,783,Site 3,132,98.71,Delay,Yes,No,Yes,Needs Improvement
+15-1551464,Lenka Franzoli,25,M,China,Malayisa,Skilled,Landscaping & Irrigation,4,142,101.89,5585354183,Present,Site 2,07:00 AM,05:00 PM,1000,10,357,Site 3,91,98.46,Inspection,Yes,No,Yes,Needs Improvement
+71-0898928,Cristionna Dubs,31,M,Japan,Malayisa,Un-Skilled,Prefabricated Aluminum Metal Canopies,3,124,101.51,9741905068,Absent,Site 3,07:00 AM,03:00 PM,1000,8,527,Site 2,149,96.21,Transportation,Yes,No,Yes,Needs Improvement
+37-7265687,Roana Stean,25,M,China,Malayisa,Skilled,Drywall & Acoustical (MOB),2,122,96.91,6628971856,Absent,Site 1,07:00 AM,05:00 PM,1000,9,389,Site 1,89,85.06,Delay,Yes,No,No,Needs Improvement
+77-1327623,Cletis Damiral,30,F,Philippines,Malayisa,Semi-Skilled,Electrical,10,114,97.32,1499431279,Present,Site 2,09:00 AM,03:00 PM,1000,9,811,Site 2,132,96.6,Operation,No,Yes,Yes,Fully Meets
+74-0980850,Uta Van der Baaren,24,F,China,Malayisa,Un-Skilled,"Temp Fencing, Decorative Fencing and Gates",3,93,104.5,8634735095,Present,Site 2,07:00 AM,03:00 PM,1000,8,718,Site 2,101,95.78,Operation,Yes,Yes,Yes,Exceeds
+59-6670365,Shelagh Bilfoot,42,F,Philippines,Malayisa,Semi-Skilled,Structural & Misc Steel Erection,2,151,100.92,4140679697,Absent,Site 1,07:00 AM,05:00 PM,1000,9,368,Site 2,85,85.33,Operation,No,Yes,No,Exceeds
+10-5659064,Nessi Eggar,25,F,China,Malayisa,Skilled,Roofing (Metal),15,111,87.68,5735655353,Present,Site 1,07:00 AM,05:00 PM,1000,8,469,Site 1,112,90.59,Transportation,No,No,Yes,Fully Meets
+67-7212577,Yevette Cardero,35,M,China,Malayisa,Skilled,Hard Tile & Stone,15,88,97.7,2984225945,Absent,Site 2,09:00 AM,03:00 PM,1000,8,601,Site 3,144,93.83,Operation,Yes,No,Yes,Exceeds
+31-6363630,Helena Mabe,31,M,Philippines,Malayisa,Semi-Skilled,Marlite Panels (FED),17,96,93.48,8783002499,Present,Site 1,09:00 AM,03:00 PM,1000,8,570,Site 1,118,86.27,Inspection,No,Yes,No,Fully Meets
+96-3122739,Ashby Ewells,43,M,China,Malayisa,Skilled,Drilled Shafts,11,113,98.4,4814491360,Absent,Site 1,07:00 AM,03:00 PM,1000,10,832,Site 1,85,93.52,Delay,Yes,Yes,No,Fully Meets
+21-2631023,Claiborn McLay,41,F,China,Malayisa,Skilled,Fire Protection,20,99,98.21,8448672461,Absent,Site 1,07:00 AM,05:00 PM,1000,10,827,Site 3,114,98.67,Operation,Yes,No,Yes,Fully Meets
+32-3692876,Shell MacMillan,31,F,China,Malayisa,Skilled,Ornamental Railings,12,94,100.67,9533201037,Present,Site 1,07:00 AM,03:00 PM,1000,9,433,Site 1,149,97.71,Custom,Yes,No,No,Needs Improvement
+79-8294394,Maurene Inge,28,M,China,Malayisa,Un-Skilled,Drilled Shafts,5,109,102.71,8955414145,Present,Site 3,09:00 AM,03:00 PM,1000,10,635,Site 2,142,87.05,Transportation,Yes,Yes,Yes,Exceeds
+95-5020002,Rafaelita Trumper,37,M,China,Malayisa,Skilled,Roofing (Asphalt),9,86,99.57,5720505768,Present,Site 3,07:00 AM,03:00 PM,1000,10,755,Site 2,133,95.43,Delay,Yes,Yes,No,Needs Improvement
+70-2137470,Merrick Christie,39,M,Philippines,Malayisa,Un-Skilled,Marlite Panels (FED),7,118,98.6,2865259358,Absent,Site 1,07:00 AM,05:00 PM,1000,10,591,Site 2,129,89.09,Transportation,No,No,No,Fully Meets
+99-5456751,Davis Buessen,41,M,China,Malayisa,Skilled,Glass & Glazing,13,160,90.77,1220420379,Absent,Site 3,09:00 AM,05:00 PM,1000,9,546,Site 1,86,90.24,Inspection,Yes,No,No,Exceeds
+55-0475890,Warde Daintrey,36,F,Philippines,Malayisa,Semi-Skilled,Prefabricated Aluminum Metal Canopies,7,116,104.62,1027107672,Absent,Site 2,09:00 AM,03:00 PM,1000,10,754,Site 3,119,92.76,Custom,No,Yes,Yes,Exceeds
+28-0016363,Allene Rangle,25,M,China,Malayisa,Semi-Skilled,Drywall & Acoustical (MOB),9,83,86.96,4023381357,Present,Site 1,07:00 AM,05:00 PM,1000,8,695,Site 1,93,89.35,Operation,Yes,Yes,No,Needs Improvement
+83-9423282,Babbie Sweet,38,M,China,Malayisa,Un-Skilled,Painting & Vinyl Wall Covering,19,119,104.32,8729489970,Absent,Site 2,07:00 AM,03:00 PM,1000,9,536,Site 3,133,93.06,Transportation,Yes,No,No,Needs Improvement
+97-3861575,Lane Aldiss,28,F,China,Malayisa,Un-Skilled,"Doors, Frames & Hardware",11,136,97.06,5633982924,Absent,Site 1,09:00 AM,03:00 PM,1000,9,530,Site 2,126,91.57,Custom,No,Yes,Yes,Fully Meets
+05-0648405,Corbie Beardsley,24,F,Philippines,Malayisa,Semi-Skilled,Site Furnishings,4,146,89.95,1374801240,Absent,Site 3,09:00 AM,05:00 PM,1000,10,525,Site 1,145,88.71,Operation,Yes,No,No,Needs Improvement
+78-0286109,Alisa Woolrich,29,M,Philippines,Malayisa,Un-Skilled,Painting & Vinyl Wall Covering,19,122,90.74,6313664698,Absent,Site 2,09:00 AM,05:00 PM,1000,10,811,Site 2,129,95.55,Inspection,No,No,Yes,Exceeds
+22-5081150,Ursola Kleszinski,21,M,Japan,Malayisa,Skilled,Rebar & Wire Mesh Install,19,98,103.77,8779700756,Absent,Site 1,09:00 AM,03:00 PM,1000,10,409,Site 3,92,93.63,Delay,No,No,Yes,Fully Meets
+80-4776547,Jennette Marieton,26,M,China,Malayisa,Skilled,Roofing (Metal),2,125,97.29,2835716904,Present,Site 2,09:00 AM,05:00 PM,1000,9,632,Site 3,150,89.58,Inspection,Yes,No,Yes,Needs Improvement
+74-2221891,Nappie Cranke,38,M,Malaysia,Malayisa,Skilled,Framing (Steel),18,155,90.21,8075938798,Absent,Site 1,09:00 AM,03:00 PM,1000,10,751,Site 3,132,96.0,Transportation,Yes,Yes,No,Needs Improvement
+91-4421575,Krissy Brislen,24,F,China,Malayisa,Un-Skilled,Masonry,7,137,88.73,5462811381,Absent,Site 1,07:00 AM,03:00 PM,1000,9,725,Site 3,117,96.69,Custom,Yes,Yes,No,Fully Meets
+49-8245611,Yolanda Gilliver,29,M,China,Malayisa,Skilled,Waterproofing & Caulking,12,94,102.64,1869093623,Absent,Site 3,09:00 AM,05:00 PM,1000,8,395,Site 1,120,90.07,Delay,Yes,No,Yes,Needs Improvement
+15-3008451,Caron Dik,21,F,Philippines,Malayisa,Un-Skilled,Drilled Shafts,15,158,93.05,8266428220,Absent,Site 2,09:00 AM,03:00 PM,1000,10,701,Site 2,107,86.1,Inspection,No,No,Yes,Fully Meets
+55-8821728,Gerrard Ankers,33,F,China,Malayisa,Un-Skilled,RF Shielding,8,98,91.87,2084846463,Present,Site 1,07:00 AM,03:00 PM,1000,10,728,Site 1,95,85.52,Transportation,No,Yes,No,Exceeds
+11-1281349,Gery Point,21,M,China,Malayisa,Semi-Skilled,Curb & Gutter,7,158,104.5,5978018812,Present,Site 3,07:00 AM,03:00 PM,1000,9,639,Site 2,152,90.12,Transportation,No,Yes,No,Needs Improvement
+78-0984666,Gwenette Edsell,26,F,China,Malayisa,Semi-Skilled,Glass & Glazing,11,142,93.87,6792017981,Absent,Site 2,07:00 AM,05:00 PM,1000,10,439,Site 2,102,88.01,Transportation,Yes,No,No,Fully Meets
+45-1621450,Leland Osment,40,M,China,Malayisa,Skilled,Elevator,9,115,100.93,6487321885,Present,Site 2,07:00 AM,05:00 PM,1000,8,395,Site 2,114,89.25,Transportation,No,No,Yes,Exceeds
+54-8128675,Sayres Treadger,30,F,China,Malayisa,Semi-Skilled,Overhead Doors,11,152,103.34,4418564101,Present,Site 3,09:00 AM,05:00 PM,1000,10,390,Site 3,125,92.89,Inspection,No,Yes,Yes,Fully Meets
+72-9861253,Ardis Lourens,44,M,Sri Lanka,Malayisa,Un-Skilled,Roofing (Asphalt),3,138,102.82,4062055090,Present,Site 2,07:00 AM,03:00 PM,1000,9,611,Site 1,111,95.86,Custom,No,Yes,No,Exceeds
+85-9178958,Lynn Cossentine,31,M,China,Malayisa,Semi-Skilled,Soft Flooring and Base,10,141,90.08,6929669091,Present,Site 2,09:00 AM,03:00 PM,1000,10,399,Site 2,129,90.79,Custom,Yes,Yes,No,Fully Meets
+32-2892107,Jordana Phalip,30,M,China,Malayisa,Un-Skilled,"Doors, Frames & Hardware",18,92,95.6,9265022620,Absent,Site 1,07:00 AM,05:00 PM,1000,9,437,Site 3,145,98.71,Transportation,No,Yes,No,Fully Meets
+37-2102186,Sheilah Chadbourne,20,F,Philippines,Malayisa,Un-Skilled,Retaining Wall and Brick Pavers,4,131,90.97,4671578212,Present,Site 2,07:00 AM,03:00 PM,1000,8,391,Site 2,154,87.18,Transportation,No,No,No,Fully Meets
+75-6371836,Earlie Feaveryear,22,M,China,Malayisa,Semi-Skilled,Rebar & Wire Mesh Install,20,116,104.42,4893118072,Absent,Site 2,07:00 AM,05:00 PM,1000,8,755,Site 1,128,96.12,Transportation,No,Yes,No,Exceeds
+90-6518300,Jammie Hindsberg,28,M,China,Malayisa,Un-Skilled,Plumbing & Medical Gas,17,121,103.29,6155471614,Present,Site 1,09:00 AM,03:00 PM,1000,9,628,Site 2,86,98.01,Delay,Yes,No,No,Fully Meets
+09-6925849,Bertrand Hamblyn,29,M,Japan,Malayisa,Semi-Skilled,"Temp Fencing, Decorative Fencing and Gates",10,141,91.85,1824760868,Absent,Site 3,09:00 AM,05:00 PM,1000,10,420,Site 1,96,90.34,Inspection,Yes,No,Yes,Needs Improvement
+14-7633002,Prudi Kedward,36,F,Japan,Malayisa,Semi-Skilled,Roofing (Metal),14,140,94.95,7297127655,Absent,Site 1,07:00 AM,05:00 PM,1000,8,385,Site 3,154,98.29,Delay,No,Yes,No,Exceeds
+32-6765921,Nicolais Calderbank,25,F,China,Malayisa,Un-Skilled,Roofing (Asphalt),5,87,100.52,2796926451,Present,Site 1,07:00 AM,05:00 PM,1000,8,842,Site 1,156,92.9,Inspection,Yes,No,No,Fully Meets
+34-7513158,Lulu Ramsdale,42,M,China,Malayisa,Semi-Skilled,Drilled Shafts,9,106,100.84,4340172480,Present,Site 1,07:00 AM,03:00 PM,1000,10,559,Site 2,155,97.65,Inspection,Yes,Yes,No,Needs Improvement
+59-1677063,Leela Santorini,29,F,China,Malayisa,Semi-Skilled,Wall Protection,1,106,91.33,2914541708,Present,Site 3,07:00 AM,03:00 PM,1000,8,789,Site 3,112,91.19,Delay,No,No,No,Exceeds
+83-1061372,Torrance Bergin,29,M,China,Malayisa,Skilled,Roofing (Metal),5,95,86.81,0631630880,Present,Site 2,09:00 AM,05:00 PM,1000,10,852,Site 1,101,92.66,Delay,Yes,No,No,Fully Meets
+59-7256057,Ally Cockshoot,44,M,China,Malayisa,Skilled,Landscaping & Irrigation,18,139,92.84,9193658826,Absent,Site 3,09:00 AM,03:00 PM,1000,9,664,Site 1,117,94.66,Transportation,Yes,No,No,Needs Improvement
+35-5155746,Verena Glasspoole,25,F,China,Malayisa,Un-Skilled,Roofing (Asphalt),9,148,90.06,7031063949,Present,Site 1,09:00 AM,03:00 PM,1000,9,593,Site 2,89,98.88,Inspection,Yes,Yes,Yes,Exceeds
+77-6735754,Conny Tappin,23,M,China,Malayisa,Un-Skilled,Marlite Panels (FED),14,84,88.01,6297294356,Present,Site 1,09:00 AM,05:00 PM,1000,10,804,Site 2,132,93.64,Custom,No,No,Yes,Exceeds
+93-3747708,Waldemar Hugnet,22,M,China,Malayisa,Skilled,Framing (Wood),20,126,97.65,9417793276,Absent,Site 3,09:00 AM,05:00 PM,1000,8,455,Site 1,148,88.78,Transportation,No,No,Yes,Needs Improvement
+79-5811227,Darlene Warne,29,F,Philippines,Malayisa,Skilled,Drilled Shafts,2,149,98.99,9437021163,Absent,Site 1,07:00 AM,05:00 PM,1000,8,814,Site 3,110,99.36,Transportation,No,No,No,Fully Meets
+78-3553270,Hew Gilliland,20,F,China,Malayisa,Semi-Skilled,Soft Flooring and Base,18,81,101.32,7307890372,Present,Site 1,09:00 AM,05:00 PM,1000,10,773,Site 1,143,90.55,Operation,Yes,Yes,Yes,Exceeds
+46-6268390,Claresta Feldstein,22,F,China,Malayisa,Un-Skilled,"Doors, Frames & Hardware",14,92,93.24,0174457251,Absent,Site 2,07:00 AM,05:00 PM,1000,9,583,Site 2,154,95.71,Transportation,Yes,Yes,No,Fully Meets
+68-2394009,Colas Camamile,29,M,Philippines,Malayisa,Semi-Skilled,Drywall & Acoustical (FED),7,91,85.9,4441290780,Present,Site 1,09:00 AM,05:00 PM,1000,10,608,Site 2,137,96.1,Transportation,Yes,Yes,Yes,Exceeds
+44-9785767,Stefano Feirn,32,M,China,Malayisa,Un-Skilled,Rebar & Wire Mesh Install,1,155,91.63,3987462361,Absent,Site 3,07:00 AM,03:00 PM,1000,9,662,Site 2,108,85.43,Delay,No,No,No,Needs Improvement
+40-9250466,Wheeler Aburrow,33,F,China,Malayisa,Semi-Skilled,Wall Protection,2,132,86.96,0470244607,Present,Site 1,09:00 AM,03:00 PM,1000,8,814,Site 1,154,97.41,Delay,Yes,No,Yes,Fully Meets
+02-4116648,Donna Provest,23,F,Philippines,Malayisa,Skilled,Ornamental Railings,3,131,98.48,4522207700,Absent,Site 3,09:00 AM,03:00 PM,1000,9,371,Site 1,96,89.33,Transportation,No,Yes,No,Fully Meets
+92-9289490,Tamarah Skayman,34,M,China,Malayisa,Semi-Skilled,Rebar & Wire Mesh Install,18,82,101.22,2757969846,Present,Site 2,09:00 AM,05:00 PM,1000,9,748,Site 3,149,94.84,Transportation,No,No,Yes,Exceeds
+45-2402729,Elwyn Short,20,F,China,Malayisa,Un-Skilled,Electrical,7,138,95.53,5635985319,Absent,Site 2,07:00 AM,03:00 PM,1000,9,830,Site 1,103,92.84,Custom,Yes,Yes,No,Fully Meets
+39-5647473,Angelita Michin,29,M,China,Malayisa,Skilled,Painting & Vinyl Wall Covering,5,153,102.36,7058957789,Absent,Site 1,07:00 AM,05:00 PM,1000,10,599,Site 2,111,86.84,Custom,Yes,No,Yes,Fully Meets
+99-2581799,Anderea Rugge,44,M,China,Malayisa,Un-Skilled,EIFS,8,117,96.76,4634403579,Absent,Site 2,09:00 AM,05:00 PM,1000,8,380,Site 3,125,90.26,Transportation,Yes,No,No,Fully Meets
+91-2488612,Prudi Garlee,36,M,China,Malayisa,Semi-Skilled,Termite Control,5,122,93.75,2205483692,Present,Site 1,09:00 AM,03:00 PM,1000,9,777,Site 3,125,88.9,Operation,Yes,No,No,Exceeds
+27-8807695,Kimberlee Slocket,39,F,China,Malayisa,Semi-Skilled,Construction Clean and Final Clean,16,92,100.78,2953706909,Present,Site 2,09:00 AM,03:00 PM,1000,10,396,Site 1,80,85.82,Transportation,No,Yes,No,Fully Meets
+28-5389478,Sheeree Vale,42,F,China,Malayisa,Semi-Skilled,Drilled Shafts,19,156,99.45,3731164434,Present,Site 3,09:00 AM,03:00 PM,1000,9,464,Site 2,158,93.79,Transportation,No,Yes,Yes,Fully Meets
+31-8158150,Padraic Detoc,41,F,China,Malayisa,Semi-Skilled,Masonry,4,144,93.15,4334180493,Absent,Site 3,07:00 AM,05:00 PM,1000,9,853,Site 3,96,95.22,Custom,No,Yes,No,Needs Improvement
+62-8970104,Petronille Baldacchi,43,M,China,Malayisa,Un-Skilled,Structural and Misc Steel (Fabrication),20,130,89.59,0679365222,Present,Site 1,07:00 AM,05:00 PM,1000,9,576,Site 1,93,93.5,Custom,No,Yes,Yes,Needs Improvement
+19-7271243,Karlyn Battlestone,41,F,Philippines,Malayisa,Semi-Skilled,Ornamental Railings,11,85,95.98,7425381818,Absent,Site 1,07:00 AM,05:00 PM,1000,8,495,Site 3,99,89.04,Delay,Yes,Yes,No,Exceeds
+35-5003360,Caitrin Phillott,35,F,China,Malayisa,Semi-Skilled,Electrical,3,143,98.49,4394192919,Absent,Site 2,07:00 AM,05:00 PM,1000,10,663,Site 2,139,94.73,Delay,No,Yes,No,Exceeds
+78-0067037,Hugues Lauritsen,35,F,Philippines,Malayisa,Semi-Skilled,Landscaping & Irrigation,19,136,90.73,4209683841,Absent,Site 1,07:00 AM,05:00 PM,1000,10,572,Site 3,108,85.16,Delay,Yes,Yes,No,Exceeds
+19-2018026,Craggy Guesford,27,F,Philippines,Malayisa,Semi-Skilled,Hard Tile & Stone,3,81,99.93,9030975008,Absent,Site 1,09:00 AM,03:00 PM,1000,10,847,Site 3,94,87.83,Operation,No,No,No,Fully Meets
+64-5417658,Marlane Droghan,44,M,China,Malayisa,Semi-Skilled,Overhead Doors,11,97,93.82,8455547685,Absent,Site 2,09:00 AM,05:00 PM,1000,10,363,Site 1,156,95.21,Operation,No,No,No,Needs Improvement
+32-1236059,Allyson Feld,41,M,Malaysia,Malayisa,Semi-Skilled,Plumbing & Medical Gas,9,101,85.66,0478470118,Absent,Site 2,07:00 AM,05:00 PM,1000,10,512,Site 3,136,96.82,Delay,Yes,No,Yes,Exceeds
+56-4491986,Salli Drakeley,21,F,China,Malayisa,Un-Skilled,Elevator,1,150,103.64,7273219029,Absent,Site 2,07:00 AM,05:00 PM,1000,10,511,Site 3,151,98.39,Operation,Yes,Yes,Yes,Exceeds
+26-4164867,Shani Mellenby,42,M,China,Malayisa,Un-Skilled,Fire Protection,6,93,85.77,7274454951,Present,Site 1,09:00 AM,05:00 PM,1000,9,457,Site 2,151,93.15,Transportation,Yes,Yes,Yes,Exceeds
+09-0620887,Annamaria Mc Grath,45,F,China,Malayisa,Un-Skilled,HVAC,10,155,104.87,0386780838,Absent,Site 1,09:00 AM,05:00 PM,1000,10,623,Site 3,160,96.21,Delay,Yes,Yes,No,Exceeds
+03-4348685,Roshelle Phelips,42,F,China,Malayisa,Skilled,Curb & Gutter,5,146,88.63,3386319602,Absent,Site 2,07:00 AM,03:00 PM,1000,8,670,Site 3,137,89.81,Inspection,No,Yes,Yes,Needs Improvement
+89-8655139,Jacky Allday,26,M,Bangladesh,Malayisa,Skilled,Drilled Shafts,3,91,85.74,4032188130,Present,Site 2,09:00 AM,03:00 PM,1000,10,837,Site 3,110,95.87,Operation,No,Yes,No,Fully Meets
+35-3142463,Ruthann Brede,38,F,Malaysia,Malayisa,Semi-Skilled,Roofing (Metal),15,149,87.43,3375410794,Present,Site 2,07:00 AM,05:00 PM,1000,8,565,Site 3,114,85.28,Operation,Yes,Yes,No,Needs Improvement
+65-7245385,Britteny Matieu,31,F,Philippines,Malayisa,Un-Skilled,EIFS,15,89,88.89,1057421774,Absent,Site 2,09:00 AM,03:00 PM,1000,9,553,Site 2,102,98.4,Transportation,No,Yes,Yes,Exceeds
+49-4411099,Vilhelmina Rundle,32,M,China,Malayisa,Skilled,HVAC,10,126,96.32,6705112581,Present,Site 3,09:00 AM,05:00 PM,1000,9,477,Site 2,114,97.7,Operation,No,Yes,No,Needs Improvement
+13-8647966,Prentice Fullerd,38,M,China,Malayisa,Semi-Skilled,Ornamental Railings,18,84,103.31,0038374935,Present,Site 1,07:00 AM,05:00 PM,1000,10,511,Site 3,98,96.27,Transportation,No,Yes,Yes,Exceeds
+00-3159715,Malena Beert,23,F,China,Malayisa,Un-Skilled,Curb & Gutter,4,109,100.74,8303921495,Absent,Site 2,09:00 AM,05:00 PM,1000,8,395,Site 2,115,89.81,Custom,Yes,Yes,Yes,Exceeds
+55-8390389,Madella Pillman,25,F,China,Malayisa,Un-Skilled,Roofing (Asphalt),17,124,98.45,3717079883,Present,Site 2,07:00 AM,03:00 PM,1000,8,831,Site 1,128,92.19,Delay,No,Yes,No,Needs Improvement
+81-4363977,Maren Bolwell,28,M,Philippines,Malayisa,Semi-Skilled,Casework,11,122,102.13,6867959806,Absent,Site 2,09:00 AM,03:00 PM,1000,9,439,Site 2,90,93.31,Transportation,Yes,No,No,Fully Meets
+29-4854982,Douglas Isenor,26,M,Malaysia,Malayisa,Skilled,Sitework & Site Utilities,6,137,95.63,1781310416,Absent,Site 1,09:00 AM,03:00 PM,1000,10,386,Site 1,131,96.04,Transportation,No,No,Yes,Exceeds
+97-3951555,Aylmer Borkett,29,M,Philippines,Malayisa,Un-Skilled,Retaining Wall and Brick Pavers,8,138,88.62,6259262051,Present,Site 2,07:00 AM,05:00 PM,1000,8,377,Site 2,108,94.44,Delay,No,No,No,Exceeds
+06-7103032,Darsey Sherme,31,M,China,Malayisa,Skilled,EIFS,18,143,95.87,8824073387,Present,Site 2,09:00 AM,05:00 PM,1000,9,516,Site 2,123,87.61,Custom,Yes,Yes,No,Exceeds
+14-9655428,Homerus Josovich,31,M,China,Malayisa,Semi-Skilled,Electrical and Fire Alarm,10,155,90.19,1991245793,Present,Site 2,09:00 AM,05:00 PM,1000,8,521,Site 2,117,91.8,Transportation,Yes,Yes,Yes,Fully Meets
+16-5111414,Anissa Craigie,29,M,Philippines,Malayisa,Skilled,Fire Protection,6,150,89.15,0919491219,Present,Site 1,09:00 AM,05:00 PM,1000,9,669,Site 3,127,93.78,Delay,Yes,Yes,Yes,Fully Meets
+17-1272246,Dona Ramsier,23,M,China,Malayisa,Un-Skilled,"Doors, Frames & Hardware",3,138,85.11,3385969700,Present,Site 1,07:00 AM,03:00 PM,1000,10,674,Site 3,85,88.61,Inspection,Yes,No,No,Fully Meets
+09-0954227,Alvina Brantzen,25,M,China,Malayisa,Un-Skilled,Framing (Wood),8,126,96.0,0057714355,Absent,Site 3,07:00 AM,03:00 PM,1000,8,395,Site 3,85,91.72,Operation,Yes,No,Yes,Needs Improvement
+47-1772314,Kathryne McInnes,39,F,China,Malayisa,Semi-Skilled,Roofing (Asphalt),10,97,87.99,0404766803,Present,Site 2,07:00 AM,03:00 PM,1000,10,555,Site 1,121,95.5,Delay,No,Yes,Yes,Needs Improvement
+46-0090414,Dorey Officer,28,F,Philippines,Malayisa,Semi-Skilled,Granite Surfaces,3,97,101.11,3976909203,Present,Site 2,07:00 AM,05:00 PM,1000,10,723,Site 1,102,99.26,Custom,Yes,No,No,Exceeds
+07-3717138,Wynn Mansell,41,M,China,Malayisa,Un-Skilled,Marlite Panels (FED),5,153,88.19,1937162656,Present,Site 2,07:00 AM,03:00 PM,1000,10,530,Site 1,111,90.18,Transportation,Yes,No,No,Fully Meets
+26-7359630,Tabby Minot,25,F,China,Malayisa,Skilled,Construction Clean and Final Clean,1,153,89.76,4854540966,Absent,Site 3,09:00 AM,03:00 PM,1000,10,631,Site 3,96,98.7,Custom,Yes,Yes,Yes,Exceeds
+78-1240537,Flori Caunter,45,F,China,Malayisa,Skilled,HVAC,16,110,93.24,1504747240,Absent,Site 3,09:00 AM,03:00 PM,1000,8,680,Site 3,118,92.95,Operation,Yes,Yes,No,Needs Improvement
+73-1488149,Caitrin De Pietri,43,M,China,Malayisa,Semi-Skilled,Framing (Wood),18,143,92.41,7822141414,Present,Site 3,07:00 AM,03:00 PM,1000,9,744,Site 3,160,88.17,Delay,No,No,Yes,Exceeds
+10-7091213,Raphaela Malden,30,F,China,Malayisa,Skilled,Rebar & Wire Mesh Install,5,152,97.35,1228798869,Absent,Site 2,09:00 AM,03:00 PM,1000,8,672,Site 1,110,97.23,Transportation,Yes,No,No,Needs Improvement
+66-7347198,Reese Hrihorovich,25,M,China,Malayisa,Semi-Skilled,RF Shielding,4,132,103.7,3190423849,Present,Site 3,09:00 AM,03:00 PM,1000,10,546,Site 3,123,85.38,Custom,Yes,No,Yes,Needs Improvement
+19-2390473,Deni Hosier,28,M,China,Malayisa,Skilled,Granite Surfaces,19,84,101.14,9789829043,Present,Site 1,07:00 AM,03:00 PM,1000,8,498,Site 3,91,93.01,Inspection,Yes,No,Yes,Needs Improvement
+41-5673891,Desmund Gritten,37,M,China,Malayisa,Skilled,Electrical,19,118,96.86,2212501633,Absent,Site 3,07:00 AM,05:00 PM,1000,9,504,Site 1,117,90.53,Inspection,No,Yes,Yes,Exceeds
+01-7149877,Giles Comer,44,F,China,Malayisa,Semi-Skilled,EIFS,18,155,88.44,7639678471,Absent,Site 1,09:00 AM,05:00 PM,1000,8,700,Site 1,135,92.17,Custom,No,No,Yes,Needs Improvement
+80-6499925,Carolin Westcarr,25,F,Japan,Malayisa,Semi-Skilled,Hard Tile & Stone,3,151,101.15,0350586861,Absent,Site 1,07:00 AM,05:00 PM,1000,8,698,Site 3,153,96.77,Operation,Yes,No,Yes,Exceeds
+35-2955955,Ariel Preto,22,M,Japan,Malayisa,Semi-Skilled,Elevator,16,87,90.99,9122307567,Present,Site 2,09:00 AM,05:00 PM,1000,9,754,Site 1,101,95.9,Delay,No,Yes,Yes,Fully Meets
+67-9617853,Marcille McKinney,33,F,China,Malayisa,Semi-Skilled,Asphalt Paving,16,134,95.56,9223410231,Present,Site 2,09:00 AM,03:00 PM,1000,10,513,Site 2,88,95.21,Custom,No,No,No,Exceeds
+67-9455846,Kiel Lemary,38,M,China,Malayisa,Un-Skilled,Fire Sprinkler System,12,81,102.91,6082932463,Present,Site 3,07:00 AM,05:00 PM,1000,10,630,Site 2,156,95.94,Inspection,No,No,Yes,Fully Meets
+87-1438367,Hildagarde Pamplin,42,F,Philippines,Malayisa,Semi-Skilled,Retaining Wall and Brick Pavers,7,94,94.79,9768051604,Absent,Site 3,09:00 AM,03:00 PM,1000,9,817,Site 3,87,88.39,Inspection,No,Yes,Yes,Exceeds
+78-6374494,Jewelle O'Monahan,21,F,China,Malayisa,Un-Skilled,Marlite Panels (FED),5,123,104.45,1670328309,Absent,Site 1,09:00 AM,05:00 PM,1000,10,477,Site 2,133,91.47,Transportation,No,Yes,No,Needs Improvement
+83-8175262,Packston Headey,27,M,China,Malayisa,Un-Skilled,Structural & Misc Steel Erection,8,118,102.11,1179907302,Absent,Site 1,09:00 AM,05:00 PM,1000,9,661,Site 1,111,90.41,Custom,No,No,No,Fully Meets
+84-2536918,Vina Stiebler,30,F,China,Malayisa,Un-Skilled,Framing (Steel),12,93,101.65,9654003678,Present,Site 2,07:00 AM,03:00 PM,1000,10,701,Site 3,120,90.78,Transportation,No,No,No,Exceeds
+82-1264082,Aron Bielfelt,34,M,China,Malayisa,Skilled,HVAC,17,133,104.8,1637807260,Absent,Site 1,09:00 AM,03:00 PM,1000,8,670,Site 3,136,91.25,Delay,No,Yes,No,Exceeds
+67-0852855,Ivie McSkin,40,F,China,Malayisa,Un-Skilled,Masonry,18,146,85.48,7308736695,Absent,Site 1,07:00 AM,03:00 PM,1000,9,640,Site 1,113,87.97,Transportation,No,Yes,Yes,Needs Improvement
+28-6620756,Sacha Lipman,21,F,China,Malayisa,Semi-Skilled,Casework,12,137,87.85,2214439250,Present,Site 2,07:00 AM,03:00 PM,1000,9,851,Site 1,106,88.11,Inspection,Yes,No,No,Fully Meets
+28-7164299,Karoly Diviney,20,F,China,Malayisa,Un-Skilled,Fire Protection,14,119,100.74,0299348261,Absent,Site 3,09:00 AM,03:00 PM,1000,10,789,Site 1,82,93.97,Operation,No,Yes,Yes,Exceeds
+47-2146330,Genevra Jiruca,24,F,China,Malayisa,Un-Skilled,Rebar & Wire Mesh Install,1,103,91.18,4050564599,Present,Site 1,07:00 AM,03:00 PM,1000,9,841,Site 3,90,96.87,Inspection,No,No,No,Needs Improvement
+50-9477978,Catina Hearne,26,M,Japan,Malayisa,Semi-Skilled,Fire Protection,5,117,91.4,9893824729,Present,Site 1,09:00 AM,05:00 PM,1000,10,361,Site 2,137,90.14,Operation,Yes,Yes,Yes,Fully Meets
+27-6688316,Pegeen Rudland,34,M,China,Malayisa,Skilled,Soft Flooring and Base,5,112,96.98,4220804471,Absent,Site 2,09:00 AM,03:00 PM,1000,10,572,Site 3,122,85.67,Operation,No,No,No,Exceeds
+24-4652194,Isidoro Howland,38,F,Philippines,Malayisa,Un-Skilled,Framing (Steel),4,148,96.32,7388540431,Absent,Site 3,07:00 AM,05:00 PM,1000,10,606,Site 3,80,90.02,Operation,Yes,Yes,Yes,Needs Improvement
+02-7604635,Aguistin Cannan,23,M,China,Malayisa,Semi-Skilled,Sitework & Site Utilities,7,91,86.44,0306144018,Absent,Site 1,07:00 AM,05:00 PM,1000,9,553,Site 1,86,99.72,Transportation,No,No,Yes,Fully Meets
+60-7744171,Myrtle Bruin,23,M,China,Malayisa,Semi-Skilled,"Doors, Frames & Hardware",19,152,103.33,9485876289,Absent,Site 1,07:00 AM,05:00 PM,1000,9,833,Site 2,145,86.16,Delay,No,No,No,Fully Meets
+35-8431040,Alano Kenforth,35,M,China,Malayisa,Un-Skilled,Granite Surfaces,2,144,94.15,6883551336,Absent,Site 2,07:00 AM,05:00 PM,1000,9,656,Site 1,138,95.76,Transportation,No,No,Yes,Needs Improvement
+83-6142148,Stavro Yvon,30,F,China,Malayisa,Semi-Skilled,Masonry,8,123,90.8,0922468656,Present,Site 2,07:00 AM,05:00 PM,1000,8,651,Site 2,157,93.09,Transportation,No,Yes,Yes,Needs Improvement
+26-7621904,Cinnamon Polo,34,F,China,Malayisa,Un-Skilled,Framing (Wood),18,117,102.51,3188909519,Absent,Site 3,09:00 AM,05:00 PM,1000,8,629,Site 3,80,91.18,Transportation,Yes,Yes,Yes,Fully Meets
+30-4964995,Millisent Perillo,28,M,China,Malayisa,Un-Skilled,RF Shielding,15,104,89.89,2854646428,Absent,Site 2,09:00 AM,05:00 PM,1000,10,705,Site 1,92,87.85,Inspection,Yes,Yes,Yes,Needs Improvement
+70-9268793,Zaneta Huntall,27,F,Philippines,Malayisa,Semi-Skilled,Prefabricated Aluminum Metal Canopies,8,146,95.37,0925312398,Absent,Site 3,07:00 AM,05:00 PM,1000,8,408,Site 2,138,94.8,Transportation,Yes,Yes,Yes,Exceeds
+90-1690806,Drusi Burr,38,F,China,Malayisa,Un-Skilled,Marlite Panels (FED),15,90,97.8,9187502453,Absent,Site 3,07:00 AM,05:00 PM,1000,9,485,Site 1,131,89.77,Inspection,No,Yes,No,Needs Improvement
+72-7114187,Orelle Currier,23,M,Philippines,Malayisa,Semi-Skilled,Ornamental Railings,16,134,102.09,2985320968,Present,Site 1,07:00 AM,03:00 PM,1000,8,420,Site 3,102,88.45,Transportation,No,Yes,No,Fully Meets
+59-8704749,Valentine Akister,21,F,China,Malayisa,Semi-Skilled,Painting & Vinyl Wall Covering,7,106,94.33,3868828931,Absent,Site 3,09:00 AM,03:00 PM,1000,9,485,Site 3,154,91.28,Custom,No,Yes,Yes,Needs Improvement
+57-1421482,Kathryne Hunting,21,M,China,Malayisa,Skilled,Termite Control,15,140,86.68,2419045238,Present,Site 2,07:00 AM,05:00 PM,1000,9,431,Site 1,101,88.17,Operation,Yes,No,No,Exceeds
+01-3193007,Vaughn Bedome,44,M,China,Malayisa,Semi-Skilled,Exterior Signage,11,101,95.37,0340856106,Present,Site 1,07:00 AM,03:00 PM,1000,10,772,Site 3,129,99.45,Delay,Yes,No,No,Needs Improvement
+90-9026738,Brina Hackett,32,F,Bangladesh,Malayisa,Un-Skilled,Fire Sprinkler System,4,114,98.55,2302954750,Present,Site 2,07:00 AM,03:00 PM,1000,10,682,Site 1,130,88.82,Custom,No,No,Yes,Needs Improvement
+10-5675194,Crawford Shave,28,F,China,Malayisa,Semi-Skilled,"Doors, Frames & Hardware",16,159,101.83,6840963411,Present,Site 3,09:00 AM,05:00 PM,1000,9,804,Site 3,115,86.42,Inspection,No,Yes,No,Exceeds
+12-5141848,Bess Elcocks,41,F,China,Malayisa,Un-Skilled,Elevator,12,105,88.57,4037493810,Present,Site 2,07:00 AM,05:00 PM,1000,9,574,Site 3,135,92.79,Inspection,No,Yes,No,Needs Improvement
+97-9356946,Siffre Polland,29,F,China,Malayisa,Semi-Skilled,Granite Surfaces,11,130,92.23,1147347921,Present,Site 1,07:00 AM,05:00 PM,1000,9,778,Site 1,146,98.33,Transportation,No,No,No,Exceeds
+26-0706794,Thorn Semechik,21,M,China,Malayisa,Skilled,Fire Protection,3,142,90.15,6716007199,Absent,Site 1,07:00 AM,03:00 PM,1000,10,627,Site 3,142,87.25,Operation,No,Yes,No,Fully Meets
+46-5459633,Nickie Noller,44,F,Philippines,Malayisa,Skilled,Framing (Wood),7,99,96.19,6594470078,Present,Site 3,09:00 AM,05:00 PM,1000,8,474,Site 1,127,98.74,Delay,Yes,No,Yes,Fully Meets
+22-6622180,Kaitlin McGeneay,39,M,China,Malayisa,Semi-Skilled,Elevator,7,127,97.21,7426467287,Present,Site 2,09:00 AM,05:00 PM,1000,9,494,Site 1,126,95.13,Custom,No,No,Yes,Fully Meets
+62-9983403,Bartolemo Novkovic,22,M,China,Malayisa,Skilled,Masonry & Precast,14,146,100.65,0181515296,Absent,Site 3,09:00 AM,03:00 PM,1000,8,424,Site 3,112,88.91,Delay,Yes,No,No,Needs Improvement
+26-9737776,Ulrica Franzoli,20,M,Philippines,Malayisa,Un-Skilled,Wall Protection,20,104,97.64,8659665465,Absent,Site 3,07:00 AM,05:00 PM,1000,9,562,Site 2,148,86.53,Transportation,No,Yes,Yes,Fully Meets
+86-7364917,Elita Leemans,22,F,Pakistan,Malayisa,Un-Skilled,"Temp Fencing, Decorative Fencing and Gates",10,133,96.39,3270716893,Present,Site 1,09:00 AM,03:00 PM,1000,10,463,Site 1,153,87.25,Delay,No,No,Yes,Fully Meets
+48-5404275,Carroll Harrema,29,F,China,Malayisa,Skilled,"Doors, Frames & Hardware",18,114,96.14,2340913187,Present,Site 3,09:00 AM,03:00 PM,1000,10,375,Site 3,113,90.82,Operation,Yes,Yes,Yes,Exceeds
+84-2108573,Gav Greedier,28,M,China,Malayisa,Un-Skilled,Fire Protection,2,85,85.78,2110658444,Absent,Site 3,09:00 AM,03:00 PM,1000,9,731,Site 1,117,89.94,Custom,No,No,No,Fully Meets
+10-8446382,Alikee Breffit,33,F,Philippines,Malayisa,Un-Skilled,Retaining Wall and Brick Pavers,16,99,89.94,6030192647,Present,Site 3,07:00 AM,03:00 PM,1000,8,519,Site 2,96,94.46,Delay,Yes,No,No,Exceeds
+05-8137673,Ardith Clemenceau,36,M,China,Malayisa,Semi-Skilled,Sitework & Site Utilities,6,154,91.73,5020877360,Absent,Site 3,09:00 AM,05:00 PM,1000,10,483,Site 2,94,91.9,Delay,Yes,No,Yes,Exceeds
+08-9677631,Wilburt Haversum,30,M,China,Malayisa,Semi-Skilled,Retaining Wall and Brick Pavers,13,92,86.99,3195739763,Present,Site 1,07:00 AM,05:00 PM,1000,10,449,Site 1,148,96.57,Delay,No,Yes,No,Exceeds
+06-9864930,Deni Doblin,35,F,China,Malayisa,Un-Skilled,Epoxy Flooring,5,138,97.27,2060685583,Present,Site 1,07:00 AM,05:00 PM,1000,8,415,Site 1,87,86.09,Custom,Yes,Yes,No,Fully Meets
+24-2047129,Hernando Catonnet,29,F,Japan,Malayisa,Un-Skilled,Framing (Steel),20,148,98.18,5891275279,Present,Site 3,09:00 AM,03:00 PM,1000,9,844,Site 3,137,99.41,Delay,Yes,Yes,Yes,Needs Improvement
+49-9399385,Teddy Presslee,36,M,China,Malayisa,Un-Skilled,Asphalt Paving,20,121,100.8,2824499311,Present,Site 1,07:00 AM,05:00 PM,1000,9,666,Site 3,91,91.28,Transportation,No,Yes,No,Fully Meets
+53-5971307,Wylma Joscelyne,24,M,China,Malayisa,Un-Skilled,Ornamental Railings,7,145,90.97,6819012950,Present,Site 1,09:00 AM,05:00 PM,1000,8,611,Site 2,150,93.46,Operation,Yes,Yes,No,Exceeds
+61-4261460,Riobard Kringe,40,M,China,Malayisa,Un-Skilled,Drilled Shafts,9,124,96.56,3580864459,Absent,Site 1,07:00 AM,03:00 PM,1000,9,732,Site 1,141,94.41,Operation,No,Yes,No,Exceeds
+24-9944020,Leif Hudless,40,M,Philippines,Malayisa,Skilled,Structural and Misc Steel (Fabrication),8,107,96.49,4572366128,Absent,Site 3,09:00 AM,05:00 PM,1000,8,770,Site 1,137,99.49,Inspection,Yes,Yes,No,Needs Improvement
+68-7619135,Jayme Fairclough,23,M,Japan,Malayisa,Skilled,Retaining Wall and Brick Pavers,2,99,91.41,8686556531,Present,Site 2,09:00 AM,03:00 PM,1000,9,709,Site 2,125,93.41,Custom,No,Yes,No,Fully Meets
+31-0148790,Holly-anne Dunstall,24,F,Japan,Malayisa,Un-Skilled,Soft Flooring and Base,1,87,100.47,0179674293,Present,Site 2,09:00 AM,05:00 PM,1000,8,496,Site 3,114,96.97,Transportation,No,Yes,Yes,Exceeds
+86-0367729,Florian Kiff,35,F,China,Malayisa,Skilled,Elevator,10,97,96.29,8138098252,Present,Site 3,07:00 AM,03:00 PM,1000,10,399,Site 1,151,99.56,Delay,No,Yes,No,Needs Improvement
+71-6176991,Nikolai Lockhurst,21,M,China,Malayisa,Un-Skilled,Electrical,14,84,85.1,7092648297,Absent,Site 1,09:00 AM,03:00 PM,1000,9,537,Site 1,116,89.38,Delay,Yes,No,Yes,Needs Improvement
+50-8410074,Jacquenette Mullett,20,F,China,Malayisa,Un-Skilled,Drilled Shafts,11,149,86.39,0742844064,Present,Site 1,07:00 AM,03:00 PM,1000,10,838,Site 2,154,94.79,Custom,No,Yes,Yes,Needs Improvement
+71-2580060,Rita Signore,25,M,China,Malayisa,Skilled,Electrical,8,133,101.56,8897330444,Absent,Site 3,07:00 AM,03:00 PM,1000,8,701,Site 1,135,98.15,Custom,No,Yes,Yes,Exceeds
+62-0307102,Wat Langdon,31,M,China,Malayisa,Skilled,HVAC,3,114,101.56,5961401669,Absent,Site 1,09:00 AM,05:00 PM,1000,8,757,Site 1,139,96.92,Delay,No,Yes,No,Exceeds
+18-8775279,Nealy Lascell,34,F,China,Malayisa,Skilled,Curb & Gutter,8,108,89.66,8063572033,Absent,Site 1,09:00 AM,03:00 PM,1000,10,533,Site 2,86,97.99,Transportation,No,No,Yes,Needs Improvement
+42-4861980,Salem Worwood,39,F,Pakistan,Malayisa,Un-Skilled,Fire Protection,6,88,92.16,6186300765,Present,Site 2,09:00 AM,03:00 PM,1000,10,393,Site 3,151,87.33,Inspection,No,No,Yes,Needs Improvement
+47-4295288,Clara Tinwell,30,F,Philippines,Malayisa,Semi-Skilled,Structural and Misc Steel (Fabrication),3,124,99.95,7700777373,Present,Site 1,07:00 AM,05:00 PM,1000,8,366,Site 3,145,92.37,Operation,No,No,Yes,Exceeds
+06-4331891,Obidiah Blas,33,M,China,Malayisa,Skilled,Sitework & Site Utilities,3,101,103.47,6828524675,Present,Site 2,09:00 AM,05:00 PM,1000,10,447,Site 1,89,90.81,Transportation,No,Yes,No,Fully Meets
+10-4262949,Kitty Norway,30,M,China,Malayisa,Skilled,Curb & Gutter,11,133,86.93,3863637704,Absent,Site 2,07:00 AM,05:00 PM,1000,9,381,Site 3,133,85.66,Operation,No,No,No,Exceeds
+02-5035428,Obadiah Sergeaunt,31,F,China,Malayisa,Un-Skilled,Marlite Panels (FED),14,137,89.39,0166087637,Absent,Site 2,09:00 AM,03:00 PM,1000,10,742,Site 3,130,85.8,Operation,Yes,Yes,No,Needs Improvement
+97-8188294,Chaim Crighton,39,M,China,Malayisa,Semi-Skilled,"Doors, Frames & Hardware",4,146,91.05,3839839009,Absent,Site 2,07:00 AM,05:00 PM,1000,8,629,Site 1,93,85.33,Inspection,Yes,Yes,Yes,Exceeds
+09-2311268,Allister Kubyszek,41,M,Philippines,Malayisa,Skilled,Overhead Doors,8,130,89.56,1308720521,Present,Site 2,09:00 AM,03:00 PM,1000,9,673,Site 3,158,90.95,Custom,Yes,Yes,No,Exceeds
+85-8282841,Blakeley Lansberry,44,F,China,Malayisa,Semi-Skilled,Prefabricated Aluminum Metal Canopies,15,128,90.93,9443678306,Present,Site 3,09:00 AM,03:00 PM,1000,10,370,Site 1,140,91.36,Custom,No,Yes,No,Needs Improvement
+29-8227636,Ralina Coventry,33,F,Bangladesh,Malayisa,Un-Skilled,Soft Flooring and Base,18,143,94.29,7420287031,Present,Site 3,07:00 AM,03:00 PM,1000,8,795,Site 1,134,96.08,Transportation,Yes,No,Yes,Fully Meets
+17-1867534,Letitia Blanko,45,M,China,Malayisa,Semi-Skilled,Structural and Misc Steel (Fabrication),17,81,97.11,2345016833,Absent,Site 1,07:00 AM,05:00 PM,1000,10,630,Site 3,142,91.16,Delay,No,No,Yes,Needs Improvement
+32-2229003,Christi Shoebridge,31,F,China,Malayisa,Un-Skilled,Epoxy Flooring,5,113,91.27,4174235813,Present,Site 3,09:00 AM,05:00 PM,1000,9,402,Site 3,126,86.01,Delay,Yes,Yes,No,Fully Meets
+89-9676047,Beltran Fri,31,M,China,Malayisa,Un-Skilled,Marlite Panels (FED),11,124,92.08,8507650791,Absent,Site 3,09:00 AM,05:00 PM,1000,8,428,Site 3,100,99.96,Operation,Yes,No,No,Needs Improvement
+98-8259380,Guthrey Bearfoot,23,M,Japan,Malayisa,Skilled,"Temp Fencing, Decorative Fencing and Gates",9,146,86.68,3276979861,Absent,Site 1,09:00 AM,05:00 PM,1000,8,360,Site 1,89,93.86,Operation,No,No,No,Fully Meets
+15-7716659,Giraud Pundy,27,F,China,Malayisa,Skilled,Electrical,15,81,95.0,7287362406,Absent,Site 3,07:00 AM,05:00 PM,1000,9,783,Site 2,154,88.26,Operation,No,No,No,Needs Improvement
+21-1980339,Anders Beccero,33,M,China,Malayisa,Un-Skilled,EIFS,20,112,104.43,0035600640,Absent,Site 2,09:00 AM,05:00 PM,1000,10,390,Site 2,122,98.4,Delay,Yes,No,Yes,Exceeds
+05-8370250,Lisette Bemwell,43,F,China,Malayisa,Semi-Skilled,Roofing (Asphalt),1,111,92.75,5604391891,Absent,Site 2,09:00 AM,03:00 PM,1000,9,556,Site 3,123,99.64,Transportation,Yes,No,No,Fully Meets
